@@ -1,6 +1,11 @@
+<div align="center">
+
 # Helpdesk & Customer Support: Remote Support
 
 [Back to Portfolio](https://github.com/fenndw)
+
+</div>
+
 ---
 ## Overview
 This project simulated a real remote-support workflow using TeamViewer. I deployed the TeamViewer service on two machines; one acting as the technician endpoint and the other as the remote user requesting assistance. The goal was to practice safe remote‑access procedures, troubleshoot user‑reported issues, and document the process clearly and professionally.
